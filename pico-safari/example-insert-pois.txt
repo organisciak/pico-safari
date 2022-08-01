@@ -1,0 +1,32 @@
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (1,);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (9,42.060023,-87.936952);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (2,42.059852,-87.936955);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (3, 42.059884,-87.93722);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (4, 42.059884,-87.93733);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (5,42.05984,-87.937282);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (6,42.059707,-87.937062);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (7,42.059559,-87.937239);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (8,42.059591,-87.936799);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (10,42.059392,-87.936971);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (11,);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (12,);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (13,);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (14,);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (15,);
+INSERT INTO  creature_instance (master, latitude, longitude)
+VALUES (16,);
